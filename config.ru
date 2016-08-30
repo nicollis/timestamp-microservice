@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'sinatra'
+require './timestamp'
 
 set :enviroment, :development
 set :run, false
